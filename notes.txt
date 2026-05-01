@@ -1,0 +1,9 @@
+#PAKET YÖNETİMİ
+venv ve virtualevn paket yönetim aracı olarak pip'i kullanıyor 
+conda ve pipenv hem paket yönetimi hem virtual envitonment yönetimi yapabiliyor. 
+
+Conda package management ve virtual environment yönetimi için kullanılabilir 
+pip ise paket yönetimi için kullanılabilir.
+
+
+
