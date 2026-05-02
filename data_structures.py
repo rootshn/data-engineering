@@ -155,10 +155,10 @@ not_nam[0]
 dir(not_nam)
  
 len(not_nam)
-append metodu: Bir listeye yeni bir öğe eklemek için kullanılır.
+#append metodu: Bir listeye yeni bir öğe eklemek için kullanılır.
 not_nam.append("Mehmet")
 len(not_nam)
-insert metodu: Bir listeye belirli bir konumda yeni bir öğe eklemek için kullanılır.
+#insert metodu: Bir listeye belirli bir konumda yeni bir öğe eklemek için kullanılır.
 not_nam.insert(2, "Ayşe")
 not_nam
 
